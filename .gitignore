@@ -1,0 +1,9 @@
+@"
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+src/ml_project.egg-info/
+.env
+"@ | Out-File -Encoding utf8 .gitignore
