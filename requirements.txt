@@ -4,4 +4,5 @@ numpy
 seaborn
 scikit-learn
 matplotlib
+dill
 # -e .   # for terminate the next line
