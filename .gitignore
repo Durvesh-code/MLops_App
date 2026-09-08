@@ -8,4 +8,4 @@ ml_project.egg-info/
 src/ml_project.egg-info/
 .env
 logs/
-artifacts/
+# artifacts/
