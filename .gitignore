@@ -1,11 +1,9 @@
+@"
 venv/
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
-*.egg-info/
-ml_project.egg-info/
 src/ml_project.egg-info/
 .env
-logs/
-artifacts/
+"@ | Out-File -Encoding utf8 .gitignore
