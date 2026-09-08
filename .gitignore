@@ -4,6 +4,8 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
+ml_project.egg-info
 src/ml_project.egg-info/
 .env
+logs/
 "@ | Out-File -Encoding utf8 .gitignore
